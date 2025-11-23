@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="Portfolio Abdelhakim El Mazdaoui" width="100%"/>
+<img width="1318" height="732" alt="image" src="https://github.com/user-attachments/assets/8fa48cec-99ad-4472-bfec-acc926dbf758" />
+
 
 # Abdelhakim El Mazdaoui  
 ### Développeur Full Stack & DevOps Engineer  
