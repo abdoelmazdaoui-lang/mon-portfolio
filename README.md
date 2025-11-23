@@ -1,20 +1,29 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+<img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="Portfolio Abdelhakim El Mazdaoui" width="100%"/>
+
+# Abdelhakim El Mazdaoui  
+### Développeur Full Stack & DevOps Engineer  
+**Paris, France**  
+
+[Voir le Portfolio en ligne](https://ton-portfolio.netlify.app) • [LinkedIn](https://linkedin.com/in/abdelhakim-elmazdaoui) • [abdelhakim.pro@gmail.com](mailto:abdelhakim.pro@gmail.com)
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+### À propos de moi
+Développeur Full Stack passionné par les technologies modernes et les architectures cloud.  
+Expert en **React • Next.js • Node.js • TypeScript • AWS • Docker • Kubernetes**.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1HjuJmN8xS9XrwXz_cgn7KCB7G_dMdz2v
+Je construis des applications performantes, scalables et esthétiques — du frontend pixel-perfect au backend robuste avec CI/CD.
 
-## Run Locally
+---
 
-**Prerequisites:**  Node.js
+### Technologies & Stack
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```text
+Frontend     → React, Next.js, TypeScript, Tailwind CSS, Framer Motion
+Backend      → Node.js, Express, FastAPI, PostgreSQL, MongoDB
+DevOps       → AWS, Docker, Kubernetes, Terraform, GitHub Actions, Jenkins
+Outils       → Git, Vite, Linux, Postman, Figma
